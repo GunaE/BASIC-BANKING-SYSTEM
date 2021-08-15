@@ -1,5 +1,9 @@
 # basic-banking-system
+
 GRIPAUGUST2021
+
 BASCI BANKING SYSTEM
+
 TECHNOLGIES USED:
+
    HTML,CSS,JS
